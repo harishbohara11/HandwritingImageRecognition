@@ -1,0 +1,4 @@
+dataset/
+mlruns/
+.DS_Store
+.ipynb_checkpoints/handwritingdigitrecognition-checkpoint.ipynb

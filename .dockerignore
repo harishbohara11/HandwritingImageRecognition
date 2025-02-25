@@ -1,0 +1,4 @@
+dataset/
+mlruns/
+get_image.py
+handwritingdigitrecognition.ipynb
